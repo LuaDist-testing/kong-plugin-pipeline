@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "kong-plugin-pipeline"
-version = "0.1.0-1"
+version = "0.2.0-1"
 -- LuaDist source
 source = {
-  tag = "0.1.0-1",
+  tag = "0.2.0-1",
   url = "git://github.com/LuaDist-testing/kong-plugin-pipeline.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/Kong-Study-Group/kong-plugin-pipeline",
---    tag = "0.1.0"
+--    tag = "0.2.0"
 -- }
 description = {
    summary = "Kong custom plugin for hiting the specified upstream target",
